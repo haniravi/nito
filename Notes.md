@@ -24,7 +24,19 @@ I rarely use the whole length of SPACE key. Having a SPACE key on left handside 
 
 Another thing I noticed is I almost never use the right shift key on my current (full)keyboards.
 
+I also need a Fn MOD key.
+
 MOD keys can be sticky and not-sticky.
+
+[This](qibord_layout.json) is the layout file (at least the draft of it).
+
+## Layers
+
+### Layer 1
+
+Below is a possible layout of layer 1
+
+![qibord_layer_1](layers/qibord_layer1.png)
 
 ## Hardware
 
