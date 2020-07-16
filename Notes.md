@@ -2,7 +2,7 @@
 
 ## General notes
 
-It would be nice to have a split keyboard, a TKL one would suffice.
+It would be nice to have a split keyboard. Previously I thought that a TKL keuboard would be nice, but while fiddling with possible layout, it turned out TKL has too many keys. A 60%/65% keyboard however fits the desired UX just right.
 
 It would be nice to have MOD keys, kind of like in [vim](vim.org).
 
@@ -27,6 +27,12 @@ Another thing I noticed is I almost never use the right shift key on my current 
 MOD keys can be sticky and not-sticky.
 
 ## Hardware
+
+### Current choice
+
+I decided to go with [Nyquist/Levinson (Rev. 3)](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard) - an ortholinear 60%/40% split keyboard.
+
+### Older considerations
 
 [KBO-5000](https://keeb.io/collections/frontpage/products/kbo-5000-split-staggered-80-keyboard) 80% keyboard seems to be a nice place to start.
 
