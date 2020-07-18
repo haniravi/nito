@@ -49,3 +49,24 @@ I decided to go with [Nyquist/Levinson (Rev. 3)](https://keeb.io/collections/spl
 [KBO-5000](https://keeb.io/collections/frontpage/products/kbo-5000-split-staggered-80-keyboard) 80% keyboard seems to be a nice place to start.
 
 [BFO-9000](https://keeb.io/collections/frontpage/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear) is another option but I do not see how to assemble it yet.
+
+----------
+
+#### Misc
+
+It would be nice to keep the mod keys far from each other, so I wont press a wrong key by mistake.
+
+It seems that mapping opening and closing brackets to the same key with MOD switch requires less space keys and the same amout of strokes.
+Also to me it is more intuitive.
+
+Fn keys  should have a layout of their own. I am thinking to add the media keys to Fn key layout as well thou. Also I am thinking not to use the *Shift* key shall not be used to switch from `[` to `]` and the rest of the merry band.
+
+Overall I seem to need five layers:
+
+1. One for the characters and *unshifted* symbols
+2. One for shifted symbols
+3. One for numbers and number ops
+4. One for arrows and line/page manipulations such as `page up/page down` or `home` or `end`
+5. One for `Fn` keys and various media, such as mute/vol up/vol down
+
+Maybe layers `2` and `3` can be combined
