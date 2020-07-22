@@ -2,11 +2,11 @@
 
 ## General notes
 
-It would be nice to have a split keyboard. Previously I thought that a TKL keuboard would be nice, but while fiddling with possible layout, it turned out TKL has too many keys. A 60%/65% keyboard however fits the desired UX just right.
+It would be nice to have a split keyboard. Previously I thought that a TKL keyboard would be nice, but while fiddling with possible layout, it turned out TKL has too many keys. A 60%/65% keyboard however fits the desired UX just right.
 
-It would be nice to have ****MOD**** keys, kind of like in [vim](vim.org). ****MOD**** key basically switches between layers, just like **CTRL**, **ALT**, **SHIFT** and so on. Each layer allows to encode a desired layout and behaviour.
+It would be nice to have **MOD** keys, kind of like in [vim](vim.org). **MOD** key basically switches between layers, just like **CTRL**, **ALT**, **SHIFT** and so on. Each layer allows to encode a desired layout and behavior. It would be nice to keep the **MOD** keys far from each other, so I won't press the wrong key by mistake.
 
-The CAPSLOCK key is not needed. It could serve as an ESC key.
+The **CAPS LOCK** key is not needed. It could serve as an ESC key.
 
 I rarely use the whole length of SPACE key. Having a SPACE key on left handside should probably be enough. The right handside SPACE could serve as a RETURN key.
 
@@ -18,7 +18,7 @@ Another thing I noticed is I almost never use the right shift key on my current 
 
 ## Layers
 
-After some tests (w/o the kwyboard) I decided that 4 layers will be enough.
+After some tests (w/o the keyboard) I decided that 4 layers will be enough.
 
 Those layers are presented below
 
@@ -41,10 +41,14 @@ Below is a possible layout of the layer.
 
 ### Numpad and the rest of the symbols layer (layer 1)
 
-This layer contains the digits and missing symbols from the default layer. Again, I dont want to use the **SHIFT** key for switching between the symbols. I also do not like typing the numbers via the horizontal keys, it's too much movement. One more thing I want to try, is a mapping of symbols different from **SHIFT** one. It seems to me that it is more intuitive to map the opening and closing braces to the same key and switch via a ****MOD**** key.
+This layer contains the digits and missing symbols from the default layer. Again, I don't want to use the **SHIFT** key for switching between the symbols. I also do not like typing in the numbers using the horizontal keys, it's too much movement. One more thing I want to try, is a mapping of symbols different from **SHIFT** one. It seems to me that it is more intuitive to map the opening and closing braces to the same key and switch via a ****MOD**** key. Using a custom **MOD** key also allows to move the keys I use a lot such as `"`, `{` or `(` via **SHIFT**-ing to the default layout.
+
+All this is good, but this does not mean that the _generic_ keyboard layout is complete rubbish, and it would be good to preserve such conveniences. I noticed, for example, that I broke one such key pair - the `./`. Luckily, it was easy to fix. You can see that the `.` and `/` are next to each other on the left handside on this layer. I noticed this by luck and have no idea what other such combinations I broke. I think they'll manifest themselves during coding, once the keyboard is build.
+
+Digits on numpad resemble a phone dialer, since, again, it is more intuitive to me.
 
 Below is a possible layout of the layer.
-![Numpad and Symbold layer](layers/numpad_and_symbols.jpg)
+![Numpad and Symbol layer](layers/numpad_and_symbols.jpg)
 
 ### Text navigation layer (layer 2)
 
@@ -74,7 +78,3 @@ The boards below have too much keys.
 
 #### Misc
 
-It would be nice to keep the **MOD** keys far from each other, so I wont press a wrong key by mistake.
-
-It seems that mapping opening and closing brackets to the same key with **MOD** switch requires less space keys and the same amout of strokes.
-Also to me it is more intuitive.
