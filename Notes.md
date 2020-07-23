@@ -56,17 +56,21 @@ Below is a possible layout of the layer.
 
 ### Text navigation layer (layer 2)
 
-This layer is fairly simple. For now it utilizes only the right plate and replicates the **INSERT**, **DEL**, **HOME**, **END**, **PAGE UP**, **PAGE DOWN** and ***-ARROW** keys as they would be positioned on full keyboards. Unlike _[vim](vim.org)-s approach of mapping 2D directions to 1D physical order of **H**, **J**, **K** and **L**, this should enable a 2D navigation with index, middle and ring fingers, which is what I like.
+This layer is fairly simple. For now it utilizes only the right plate and replicates the **INSERT**, **DEL**, **HOME**, **END**, **PAGE UP**, **PAGE DOWN** and ***-ARROW** keys as they would be positioned on full keyboards. Unlike [_vim_](vim.org)-s approach of mapping 2D directions to 1D physical order of **H**, **J**, **K** and **L**, this should enable a 2D navigation with index, middle and ring fingers, which is what I like.
 
 It also contains the **PRINT SCREEN** key, since I use it and can not think of a reasonable place to put it, so it will stay here for now.
 
 Below is a possible layout of the layer.
 ![Text navigation layer](layers/text_navigation.jpg)
 
-### **Fn** and Media layer (layer 3)
+### Function and Media layer (layer 3)
+
+This layer contains the **F1** to **F12** keys, placed on the top row of both plates. It fits nicely and does not clutter a single plate. This layer also contains three media keys: **MUTE**, **VOL-** and **VOL+**. They are here since they do not _deserve_ a separate layer and to me are closer to function keys rather than to text navigation.
 
 Below is a possible layout of the layer.
-![**Fn** and Media layer](layers/fn_keys_and_media.jpg)
+![**FN** and Media layer](layers/fn_keys_and_media.jpg)
+
+**NOTE:** Note how all control keys are on the default layer, and are not overridden on other layers. This allows to use multiple key combination such as **CTRL+ALT+[*]**, **CTRL+SHIFT+ALT+[*]** and so on.
 
 ## Hardware
 
