@@ -40,6 +40,8 @@ Another thing I noticed is I almost never use the right shift key on any of my c
 
 The keys **TT(1)**, **TT(2)** and **TT(3)** are the **MOD** keys that switch between layers [1](#numpad-and-the-rest-of-the-symbols-layer-layer-1), [2](#text-navigation-layer-layer-2) and [3](#fn-and-media-layer-layer-3) correspondingly.
 
+The `\` key is on this layer since it is used often, when escaping characters. It will not be overridden on [layer 2](#text-navigation-layer-layer-2) as well.
+
 Below is a possible layout of the layer.
 ![Default layer](layers/default_layout.jpg)
 
