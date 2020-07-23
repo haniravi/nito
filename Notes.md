@@ -14,7 +14,7 @@ It would be nice to have **MOD** keys, kind of like in [vim](vim.org). **MOD** k
 
 After some tests (w/o the keyboard) I decided that 4 layers will be enough.
 
-Those layers are presented below
+Those layers are described below.
 
 ### Key legend
 
@@ -55,6 +55,10 @@ Below is a possible layout of the layer.
 ![Numpad and Symbol layer](layers/numpad_and_symbols.jpg)
 
 ### Text navigation layer (layer 2)
+
+This layer is fairly simple. For now it utilizes only the right plate and replicates the **INSERT**, **DEL**, **HOME**, **END**, **PAGE UP**, **PAGE DOWN** and ***-ARROW** keys as they would be positioned on full keyboards. Unlike _[vim](vim.org)-s approach of mapping 2D directions to 1D physical order of **H**, **J**, **K** and **L**, this should enable a 2D navigation with index, middle and ring fingers, which is what I like.
+
+It also contains the **PRINT SCREEN** key, since I use it and can not think of a reasonable place to put it, so it will stay here for now.
 
 Below is a possible layout of the layer.
 ![Text navigation layer](layers/text_navigation.jpg)
