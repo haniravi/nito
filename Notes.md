@@ -1,16 +1,10 @@
-# Notes
+# Reasoning behind **Qibord**
 
 ## General notes
 
 It would be nice to have a split keyboard. Previously I thought that a TKL keyboard would be nice, but while fiddling with possible layout, it turned out TKL has too many keys. A 60%/65% keyboard however fits the desired UX just right.
 
 It would be nice to have **MOD** keys, kind of like in [vim](vim.org). **MOD** key basically switches between layers, just like **CTRL**, **ALT**, **SHIFT** and so on. Each layer allows to encode a desired layout and behavior. It would be nice to keep the **MOD** keys far from each other, so I won't press the wrong key by mistake.
-
-The **CAPS LOCK** key is not needed. It could serve as an ESC key.
-
-I rarely use the whole length of SPACE key. Having a SPACE key on left handside should probably be enough. The right handside SPACE could serve as a RETURN key.
-
-Another thing I noticed is I almost never use the right shift key on my current (full)keyboards.
 
 **MOD** keys can be sticky and not-sticky, not sure which to use yet.
 
@@ -26,15 +20,25 @@ Those layers are presented below
 
 ![Layer toggle key](layers/layer_toggle_key_small.jpg) is the key responsible for switching to the specified layer. In this particular image, it will switch to [layer 1](#numpad-and-the-rest-of-the-symbols-layer-layer-1).
 
-![Next non-transparent key](layers/next_non_transparent_key_small.jpg) means that if the key has no bindings on current layer, it will act as the first next *non-transparent* key on layers below. This means that the lower-leftmost key on [layer 2](#text-navigation-layer-layer-2) will act as **Left Ctrl**. Generally, _all control keys_ are set on [layer 1](#default-layer) and referenced like so from other layers.
+![Next non-transparent key](layers/next_non_transparent_key_small.jpg) means that if the key has no bindings on current layer, it will act as the first next *non-transparent* key on layers below. This means that the lower-leftmost key on [layer 2](#text-navigation-layer-layer-2) will act as **Left Ctrl**. Generally, _all control keys_ are set on [layer 1](#key-size) and referenced like so from other layers.
 
 ### Default Layer
 
 By default layer, I mean the layer that is active when no layer toggle keys are pressed. It contains the alphas and the _unshifted_ symbols. As you can see, the numerals and _shifted_ keys are not here. The **SHIFT** key on this layer is used only to capitalize letters. This is the only responsibility of **SHIFT** key on _Qibord_.
 
-Other uses of the **SHIFT** key were bound to layer keys. You may notice that on this layer, only the opening brackets are present. Their counterparts are situated on the next layer.
+Other uses of the **SHIFT** key were bound to layer keys. You may notice that on this layer, only the opening brackets are present, which allows to type them in one keystrokes. Their counterparts are situated on the next layer. Same goes for the symbols on the vertical numeral keys.
 
-Same goes for the numerals.
+It turns out that I don't use **CAPS LOCK** at all, so it is replaced on the default layout by a [_1U_](#key-size) **ESC** key.
+
+I also rarely use the whole length of **SPACE** _6.25U_ key. [Nyquist](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard) allows for four _2U_ keys: one on the left and right ends of the lowest row on both plates. Having a _2U_ **SPACE** key on the lower right corner of left handside, right under the left thumb seems to do the job just great. Again, this has to be tested when the keyboard is assembled.
+
+I also decided to move the **ENTER** and **BACKSPACE** keys. **ENTER** will be _2U_ key, placed on the lower left of the right plate, under the right thumb. **BACKSPACE** will be _2U_ key, placed on the lower right of the right plate, under the right pinky. Doing this creates a nice space for all the _main_ symbols on the upper-right/right of the plate.
+
+Control keys are lined up on the lowest row of both plates and the leftmost column of the left plate. The idea is to press them with pinkies and thumbs. This seems to be convenient, at least for now.
+
+Another thing I noticed is I almost never use the right shift key on any of my current (full)keyboards, so decided not to have it on Qibord.
+
+The keys **TT(1)**, **TT(2)** and **TT(3)** are the **MOD** keys that switch between layers [1](#numpad-and-the-rest-of-the-symbols-layer-layer-1), [2](#text-navigation-layer-layer-2) and [3](#fn-and-media-layer-layer-3) correspondingly.
 
 Below is a possible layout of the layer.
 ![Default layer](layers/default_layout.jpg)
@@ -76,5 +80,8 @@ The boards below have too much keys.
 
 ----------
 
-#### Misc
+## Notes
 
+### Key size
+
+_1U_ measures a center-to-center spacing of about 19mm. For more info, refer to [this](https://www.reddit.com/r/MechanicalKeyboards/wiki/keycap_guides#wiki_key_spacing) post.
