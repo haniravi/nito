@@ -88,7 +88,31 @@ The boards below have too many keys.
 
 [BFO-9000](https://keeb.io/collections/frontpage/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear) is another option but I do not see how to assemble it yet.
 
-----------
+## Diary
+
+### 27 July, 2020
+
+----
+
+I received the PCBs.
+
+### 04 September, 2020
+
+----
+
+I have all the parts now. It turns out that I mis(read/interpreted) the [Keebio Nyquist docs](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard) docs and there are only two _2U_ keys, one on the lower inner corner of the plate, so the **BACKSPACE** key, as it is designed now, has to go.
+
+Here is how it looks now, assembled but unsoldered and w/o firmware:
+
+Qibord front
+
+![qibord_front_wip](qibord/qibord_front_wip.jpg)
+
+and back
+
+![qibord_back_wip](qibord/qibord_back_wip.jpg)
+
+----
 
 ## Notes
 
