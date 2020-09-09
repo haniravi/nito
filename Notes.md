@@ -32,7 +32,7 @@ It turns out that I don't use **CAPS LOCK** at all, so it is replaced on the def
 
 I also rarely use the whole length of **SPACE** _6.25U_ key. [Nyquist](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard) allows for four _2U_ keys: one on the left and right ends of the lowest row on both plates. Having a _2U_ **SPACE** key on the lower right corner of the left plate, right under the left thumb seems to do the job just great. Again, this has to be tested when the keyboard is assembled.
 
-I also decided to move the **ENTER** and **BACKSPACE** keys. **ENTER** will be _2U_ key, placed on the lower left of the right plate, under the right thumb. **BACKSPACE** will be _2U_ key, placed on the lower right of the right plate, under the right pinky. Doing this creates a nice space for all the _main_ symbols on the upper-right/right of the plate.
+I also decided to move the **ENTER** and **BACKSPACE** keys. **ENTER** will be _2U_ key, placed on the lower left of the right plate, under the right thumb. **BACKSPACE** will be _1U_ key, placed on the lower right of the right plate, under the right pinky, with a _1U_ **RIGHT CTRL** on its left. I am not sure about these two keys. I initially planned a _2U_ **BACKSPACE** but it is impossible on my [Nyquist](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard). We'll see how this goes. Doing this creates a nice space for all the _main_ symbols on the upper-right/right of the plate.
 
 Control keys are lined up on the lowest row of both plates and the leftmost column of the left plate. The idea is to press them with pinkies and thumbs. This seems to be convenient, at least for now.
 
@@ -111,8 +111,6 @@ Qibord front
 and back
 
 ![qibord_back_wip](qibord/qibord_back_wip.jpg)
-
-----
 
 ## Notes
 
