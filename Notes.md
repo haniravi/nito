@@ -118,7 +118,7 @@ and back
 
 I did the soldering today. Turns out it not so hard to pick up. When cutting the excess legs after soldering, I accidentally picked off a 0.1uF capacitor and now my left _2U_ key, i.e. my **SPACEBAR** is not working. The rest is fine.
 
-I was able to create and flush a custom layout firmware using the [QMK Toolbox](https://github.com/qmk/qmk_toolbox) and their [web config page](https://config.qmk.fm/#/keebio/nyquist/rev3/LAYOUT_ortho_5x12).
+I was able to create and flash a custom layout firmware using the [QMK Toolbox](https://github.com/qmk/qmk_toolbox) and their [web config page](https://config.qmk.fm/#/keebio/nyquist/rev3/LAYOUT_ortho_5x12).
 
 Now, there are two things I can do:
 
@@ -133,6 +133,12 @@ Here is how it looks:
 ![qibord assembled back](qibord/qibord_assembled_back.jpg)
 
 ![qibord assembled front](qibord/qibord_assembled_front.jpg)
+
+### 14 September, 2020
+
+----
+
+I updated the layout of the qibord and flashed the firmware and it works just fine. In fact, this note is typed using the `qibord`. It is very unusual and I am really slow yet, but I already feel how comfortable this can be once I get used to it. I need more practice.  
 
 ## Notes
 
