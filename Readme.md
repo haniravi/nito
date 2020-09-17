@@ -1,7 +1,8 @@
-# Qibord 🎹
+# Nito (ニート) 🌸
 
-So I decided I don't like one-piece keyboards and would like to try a split keyboard. I don't like available options on the market, however, so I decided to buy the pieces and assemble a keyboard of my own. This repo will contain my notes regarding this project.
+This is an umbrella project about my desired keyboard and mouse experience. It consists of
 
-For more details, please refer to notes [here](Notes.md).
+* [qibord](qibord/Readme.md)
+* [maus](maus/Readme.md)
 
-We'll see what happens next.
+It also contains contains some sort of a [blog for qibord](qibord/captains_log/toc.md) and will probably contain something similar for `maus` once I start working on it.

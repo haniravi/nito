@@ -1,4 +1,15 @@
-# Reasoning behind **Qibord**
+# Qibord 🎹
+
+* [General notes](#general-notes)
+* [Layers](#layers)
+* [Hardware](#hardware)
+* [Notes](#notes)
+
+----
+
+So I decided I don't like one-piece keyboards and would like to try a split keyboard. I don't like available options on the market, however, so I decided to buy the pieces and assemble a keyboard of my own. This repo will contain my notes regarding this project.
+
+For more details, please refer to notes [here](captains_log/toc.md).
 
 ## General notes
 
@@ -87,62 +98,6 @@ The boards below have too many keys.
 [KBO-5000](https://keeb.io/collections/frontpage/products/kbo-5000-split-staggered-80-keyboard) 80% keyboard seems to be a nice place to start.
 
 [BFO-9000](https://keeb.io/collections/frontpage/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear) is another option but I do not see how to assemble it yet.
-
-## Diary
-
-### 27 July, 2020
-
-----
-
-I received the PCBs.
-
-### 04 September, 2020
-
-----
-
-I have all the parts now. It turns out that I mis(read/interpreted) the [Keebio Nyquist docs](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard) docs and there are only two _2U_ keys, one on the lower inner corner of the plate, so the **BACKSPACE** key, as it is designed now, has to go.
-
-Here is how it looks now, assembled but unsoldered and w/o firmware:
-
-Qibord front
-
-![qibord_front_wip](qibord/qibord_front_wip.jpg)
-
-and back
-
-![qibord_back_wip](qibord/qibord_back_wip.jpg)
-
-### 13 September, 2020
-
-----
-
-I did the soldering today. Turns out it not so hard to pick up. When cutting the excess legs after soldering, I accidentally picked off a 0.1uF capacitor and now my left _2U_ key, i.e. my **SPACEBAR** is not working. The rest is fine.
-
-I was able to create and flash a custom layout firmware using the [QMK Toolbox](https://github.com/qmk/qmk_toolbox) and their [web config page](https://config.qmk.fm/#/keebio/nyquist/rev3/LAYOUT_ortho_5x12).
-
-Now, there are two things I can do:
-
-1. I can remap my spacebar to the right _2U_ key on one of the layouts. This will cause some trouble, but not as much so to ruin the experience completely. I'll still get to test the _qibord_.
-
-2. I can buy the capacitor and try to put it back. This worries me since I can fuck up the whole plate. I know a guy who knows a guy who is a field expert. I will consult with him.
-
-If I blow the plate or really feel that the misplaced spacebar ruins it for me at some point, I'll just buy a new Nyquist set and use the left half of it.
-
-Here is how it looks:
-
-![qibord assembled back](qibord/qibord_assembled_back.jpg)
-
-![qibord assembled front](qibord/qibord_assembled_front.jpg)
-
-### 14 September, 2020
-
-----
-
-I updated the layout of the qibord and flashed the firmware and it works just fine. In fact, this note is typed using the `qibord`. It is very unusual and I am really slow yet, but I already feel how comfortable this can be once I get used to it. I need more practice.  
-
-**UPD:**
-
-It turns out my custom layout ruined my armenian and russian layout.
 
 ## Notes
 
