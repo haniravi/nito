@@ -1,4 +1,4 @@
-# Nito (ニート) 🌸
+# Nīto (ニート) 🌸
 
 This is an umbrella project about my desired keyboard and mouse experience. It consists of
 
