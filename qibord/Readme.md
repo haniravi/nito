@@ -87,17 +87,13 @@ Below is a possible layout of the layer.
 
 ## Hardware
 
-### Current choice
+_Qibord_ is built on [Nyquist/Levinson (Rev. 3)](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard) - an ortholinear 60%/40% split keyboard. It uses all 60% of it - two 5x6 plates. It also requires _2U_ stabilizers and an _AUX_ cable. All of the above can be bought from [keebio](https://keeb.io/). 
 
-I decided to go with [Nyquist/Levinson (Rev. 3)](https://keeb.io/collections/split-keyboard-parts/products/nyquist-keyboard) - an ortholinear 60%/40% split keyboard. I will be using all 60% of it - two 5x6 plates.
+I bought PCB mounted [Cherry MX Blue](https://www.cherrymx.de/en/mx-original/mx-blue.html) key switches from [mechanicalkeyboards](https://mechanicalkeyboards.com/) and keu caps and 3mm _LEDs_ from amazon.
 
-### Older considerations
+## Software
 
-The boards below have too many keys.
-
-[KBO-5000](https://keeb.io/collections/frontpage/products/kbo-5000-split-staggered-80-keyboard) 80% keyboard seems to be a nice place to start.
-
-[BFO-9000](https://keeb.io/collections/frontpage/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear) is another option but I do not see how to assemble it yet.
+The only thing I needed was thw [QMK project](https://qmk.fm/). This is an awesome project that helps you build the firmware for your custom keyboards just by dragging and dropping the keys to create the layout via [QMK config](https://config.qmk.fm/) online tool and flashing it onto your board using the [QMK toolbox](https://github.com/qmk/qmk_toolbox).
 
 ## Notes
 
