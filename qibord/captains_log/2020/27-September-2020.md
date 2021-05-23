@@ -8,7 +8,7 @@ I am still slower than on a regular keyboard but the overall ergonomics of it is
 
 _qibord_ heavily relies on the thumb but with the current version, the motion of the thumb is mighty uncomfortable. The movement of the thumb is directed inwards right under the palm, which is hard. The outward motion, that is much easier, is not present at all. For the next version I plan to shift the keys on the lowest line towards each other and curve down so they can still be pressed by thumbs but via the outwards motion. The shape of it should roughly look something like this:
 
-![qibord_v2](images/qibord_v2.jpg)
+![qibord_v2](../images/qibord2/qibord_v2.jpg)
 
 ## The keys definitely need to be lubed
 
@@ -26,7 +26,7 @@ I have moved the `=` key to the default row since it is impossible to comfortabl
 
 Now it looks like this:
 
-![default_layer](../layers/default_layout.jpg)
+![default_layer](../../layers/default_layout.jpg)
 
 ### The **NUMPAD** layer
 

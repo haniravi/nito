@@ -6,8 +6,8 @@ Here is how it looks now, assembled but unsoldered and w/o firmware:
 
 Qibord front
 
-![qibord_front_wip](images/qibord_front_wip.jpg)
+![qibord_front_wip](../images/qibord1/qibord_front_wip.jpg)
 
 and back
 
-![qibord_back_wip](images/qibord_back_wip.jpg)
+![qibord_back_wip](../images/qibord1/qibord_back_wip.jpg)

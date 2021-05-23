@@ -14,6 +14,6 @@ If I blow the plate or really feel that the misplaced spacebar ruins it for me a
 
 Here is how it looks:
 
-![qibord assembled back](images/qibord_assembled_back.jpg)
+![qibord assembled back](../images/qibord1/qibord_assembled_back.jpg)
 
-![qibord assembled front](images/qibord_assembled_front.jpg)
+![qibord assembled front](../images/qibord1/qibord_assembled_front.jpg)
