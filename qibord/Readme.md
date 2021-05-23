@@ -93,7 +93,7 @@ I bought PCB mounted [Cherry MX Blue](https://www.cherrymx.de/en/mx-original/mx-
 
 ## Software
 
-The only thing I needed was thw [QMK project](https://qmk.fm/). This is an awesome project that helps you build the firmware for your custom keyboards just by dragging and dropping the keys to create the layout via [QMK config](https://config.qmk.fm/) online tool and flashing it onto your board using the [QMK toolbox](https://github.com/qmk/qmk_toolbox).
+The only thing I needed was the [QMK project](https://qmk.fm/). This is an awesome project that helps you build the firmware for your custom keyboards just by dragging and dropping the keys to create the layout via [QMK config](https://config.qmk.fm/) online tool and flashing it onto your board using the [QMK toolbox](https://github.com/qmk/qmk_toolbox).
 
 ## Notes
 
