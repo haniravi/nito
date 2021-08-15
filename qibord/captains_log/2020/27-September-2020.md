@@ -34,7 +34,7 @@ The numbers on this layer have been moved one column to the left so to create a 
 
 Now the layer looks like this:
 
-![layer2](../layers/numpad_and_symbols.jpg)
+![layer2](../../layers/numpad_and_symbols.jpg)
 
 ### The command rows
 
